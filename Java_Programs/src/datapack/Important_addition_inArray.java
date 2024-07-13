@@ -1,15 +1,15 @@
 package datapack;
 import java.util.*;
-public class SumArray
-/*Given two numbers represented by two arrays,
- write a function that returns sum array. The sum array is an array 
- representation of addition of two input arrays.*/
+public class Important_addition_inArray
+/*Given two numbers represented by two arrays, write a function 
+ that returns sum array. The sum array is an array representation 
+ of addition of two input arrays. */
 
 	/*Sample Input
-	            4 3
-                1 3 5 6
-                  1 5 8      //like a normal Addition
- Sample output: 1 5 1 4 */
+	                4 3
+       array[1]     1 3 5 6
+       array[2]       1 5 8      //like a normal Addition
+   Sample output:   1 5 1 4 */
 	
 	
 	{
